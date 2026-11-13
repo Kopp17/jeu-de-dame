@@ -1,0 +1,38 @@
+{
+  "name": "Jeu de Dames — Édition Mondiale",
+  "short_name": "Jeu de Dames",
+  "description": "Jeu de dames officiel avec variantes internationales, anglaises, brésiliennes et russes. IA stratégique et mode 2 joueurs.",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#140f0b",
+  "theme_color": "#18120e",
+  "lang": "fr",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
